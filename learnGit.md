@@ -74,8 +74,8 @@ Reference: http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
  fetch any new work but don't merge
 
  $ git pull 
- fetch and merge
 
+ fetch and merge
  $ git push [remote-name] [branch-name] 
  push to remote, e.g. git push origin master
 
